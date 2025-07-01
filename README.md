@@ -8,6 +8,6 @@ This repository contains simple Java programs I wrote to practice:
 - Logical Operators
 - Switch Statements
 
-Just part of my learning journey 👩‍💻
+I'm learning Java step by step and using GitHub to track my progress. 🌱
 
 
